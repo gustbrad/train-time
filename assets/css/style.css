@@ -1,0 +1,19 @@
+.main{
+    background-image: url(../images/train.jpg);
+    height: 100%; 
+    width: 100%;
+    background-size: 100% 100%;
+}
+
+#train-table{
+    background-color: lightskyblue;
+}
+
+.card-title{
+    background-color: lightskyblue;
+}
+
+#jumbo, #add-train{
+    background-color: lightskyblue;
+}
+
